@@ -4,7 +4,7 @@
 
 **State Space:** The state space has `37` dimensions and contains the agent's velocity, along with ray-based perception of objects around agent's forward direction.
 
-**Action Space:**  At each time step, the agent has four actions at its disposal:
+**Action Space:**  At each time step, the agent has four discrete actions at its disposal:
 - `0` - walk forward 
 - `1` - walk backward
 - `2` - turn left
